@@ -1,6 +1,6 @@
-# QuickLook
+# SuperDuperQuickScanner (SDQS)
 
-QuickLook is a modular PowerShell diagnostic and inventory tool designed for rapid system assessments.
+SDQS is a modular PowerShell diagnostic and inventory tool designed for rapid system assessments.
 It collects system, network, and hardware information and generates styled HTML reports with navigation.
 
 ## Features
@@ -17,10 +17,10 @@ It collects system, network, and hardware information and generates styled HTML 
 Reports are automatically generated in the `/Reports` folder and will automatically open.
 
 
-If QuickLook doesn’t start due to PowerShell’s execution policy,
+If SDQS doesn’t start due to PowerShell’s execution policy,
 run the following command in PowerShell to allow the script for this session only: 
 
 ```Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass```
 
-This temporarily allows QuickLook to run without permanently changing your system’s policy.
+This temporarily allows SDQS to run without permanently changing your system’s policy.
 After closing PowerShell, your normal security settings are restored automatically.
