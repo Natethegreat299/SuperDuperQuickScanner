@@ -3,8 +3,5 @@
   { "Name": "Mozilla Firefox", "Version": "144.0" },
   { "Name": "Oracle VirtualBox", "Version": "7.2.4" },
   { "Name": "7-Zip", "Version": "25.01" },
-  { "Name": "TeamViewer", "Version": "15.70.6" },
-  { "Name": "Notepad++", "Version": "8.8.7" },
-  { "Name": "Wireshark 4.4.9 x64", "Version": "4.4.9" },
-  { "Name": "Vonage", "Version": "2.24.1" }
+  { "Name": "TeamViewer", "Version": "15.70.6" }
 ]

@@ -1,12 +1,12 @@
 # ===========================================
-# QuickLook HTML Report Tools
+# SuperDuperQuickScanner HTML Report Tools
 # ===========================================
 
 function New-HTMLHeader {
     param (
-        [string]$Title = "QuickLook Report",
-        [string]$CSSPath = "../Assets/quicklook.css",
-        [string]$HeaderText = "QuickLook Report"
+        [string]$Title = "SuperDuperQuickScanner Report",
+        [string]$CSSPath = "../Assets/superduperquickscanner.css",
+        [string]$HeaderText = "SuperDuperQuickScanner Report"
     )
 
     return @"
