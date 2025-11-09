@@ -37,9 +37,9 @@ It collects system, network, and hardware information and generates styled HTML 
 
 1. Open PowerShell in the QuickLook directory.  
 2. Run the script:
-   ```powershell
-   
- .\SuperDuperQuickScanner.ps1 ```
+```powershell
+./SuperDuperQuickScanner.ps1
+```
 
 
 Reports are automatically generated in the `/Reports` folder and will automatically open.
@@ -58,3 +58,4 @@ This temporarily allows SDQS to run without permanently changing your system’s
 
 
 After closing PowerShell, your normal security settings are restored automatically.
+
